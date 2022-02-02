@@ -13,15 +13,15 @@
   <img src="https://telegra.ph/file/72e135da30a1a349f2844.jpg">
 </p>
 
-## ㅤㅤㅤ 🖤ꜰᴀʟʟᴇɴ ʀᴏʙᴏᴛ🖤
+## ㅤㅤㅤ 🖤ʟᴜᴄᴋʏ ʀᴏʙᴏᴛ🖤
 ɪ ᴀᴍ ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [💞ꜰᴀʟʟᴇɴ ʀᴏʙᴏᴛ​💞](https://t.me/BotFather)
 ᴛʜɪs ɪs ᴀ ᴅᴇᴍᴏ ʙᴏᴛ ɪ ᴅᴏɴ'ᴛ ᴋɴᴏᴡ ɪ ʟᴏɴɢᴇʀ ɪ'ʟʟ ᴋᴇᴇᴘ ʜᴏsᴛɪɴɢ ɪᴛ​...
 ━━━━━━━━━━━━━━━━━━━━━━
 ## ㅤㅤㅤᴅᴇᴘʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ​ 🚀
-ㅤㅤㅤᴛʜᴇ ᴇᴀsɪᴇsᴛ ᴡᴀʏ ᴛᴏ ᴅᴇᴘʟᴏʏ ꜰᴀʟʟᴇɴ ʀᴏʙᴏᴛ​
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/AnonymousBoy1025/FallenRobot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+ㅤㅤㅤᴛʜᴇ ᴇᴀsɪᴇsᴛ ᴡᴀʏ ᴛᴏ ᴅᴇᴘʟᴏʏ ʟᴜᴄᴋʏ ʀᴏʙᴏᴛ​
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/mrvk1703/FallenRobot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
  ━━━━━━━━━━━━━━━━━━━━━━
 
 ### ㅤㅤㅤㅤCREDITS 😘
 
-🖤 𝝙𝗡𝗢𝗡𝗬𝗠𝗢𝗨𝗦 : ᴍᴇ ᴏɴ [ɢɪᴛʜᴜʙ💞](https://github.com/AnonymousBoy1025)ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ᴍᴇ ᴏɴ [ᴛᴇʟᴇɢʀᴀᴍ💔](https://telegram.me/anonymous_was_bot)
+🖤 ʟᴜᴄᴋʏ : ᴍᴇ ᴏɴ [ɢɪᴛʜᴜʙ💞](https://github.com/mrvk1703)ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ᴍᴇ ᴏɴ [ᴛᴇʟᴇɢʀᴀᴍ💔](https://telegram.me/anonymous_was_bot)
