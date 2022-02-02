@@ -74,13 +74,13 @@ def get_readable_time(seconds: int) -> str:
 
 
 PM_START_TEXT = """
-ʜᴇʏ\n ɪ'ᴍ *ᴀɴᴏɴʏᴍᴏᴜs​ ʀᴏʙᴏᴛ*[!](https://telegra.ph/file/93b08120e36d096cd21ca.jpg)\nᴛʜᴇ ᴍᴏsᴛ ᴘᴏᴡᴇʀꜰᴜʟ ɢʀᴏᴜᴘ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ʙᴏᴛ ᴏꜰ ᴛᴇʟᴇɢʀᴀᴍ\n  ɪ ʜᴀᴠᴇ ᴀᴡᴇsᴏᴍᴇ ꜰᴇᴀᴛᴜʀᴇs ᴀɴᴅ ɴᴏ ᴏɴᴇ ᴄᴀɴ ʙᴇᴀᴛ ᴍᴇ ꜰᴏʀ ɢᴇᴛᴛɪɴɢ ɪɴꜰᴏʀᴍᴀᴛɪᴏɴ ᴀʙᴏᴜᴛ ᴍʏ ᴄᴏᴍᴍᴀɴᴅs /help
+ʜᴇʏ\n ɪ'ᴍ *ʟᴜᴄᴋʏ ʀᴏʙᴏᴛ*[!](https://telegra.ph/file/b921645cc124c9d7acf7c.jpg)\nᴛʜᴇ ᴍᴏsᴛ ᴘᴏᴡᴇʀꜰᴜʟ ɢʀᴏᴜᴘ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ʙᴏᴛ ᴏꜰ ᴛᴇʟᴇɢʀᴀᴍ\n  ɪ ʜᴀᴠᴇ ᴀᴡᴇsᴏᴍᴇ ꜰᴇᴀᴛᴜʀᴇs ᴀɴᴅ ɴᴏ ᴏɴᴇ ᴄᴀɴ ʙᴇᴀᴛ ᴍᴇ ꜰᴏʀ ɢᴇᴛᴛɪɴɢ ɪɴꜰᴏʀᴍᴀᴛɪᴏɴ ᴀʙᴏᴜᴛ ᴍʏ ᴄᴏᴍᴍᴀɴᴅs /help
 """
 
 buttons = [
     [
         InlineKeyboardButton(
-            text="🥺 ᴀᴅᴅ ᴍᴇ ᴇʟsᴇ ʏᴏᴜ ɢᴇʏ​ 🥺", url="t.me/anonymous_0_robot?startgroup=true"),
+            text="🥺 ᴀᴅᴅ ᴍᴇ ᴇʟsᴇ ʏᴏᴜ ɢᴇʏ​ 🥺", url="t.me/luckyybbot?startgroup=true"),
     ],
     [
         InlineKeyboardButton(text="💞 ᴀʙᴏᴜᴛ ᴍᴇ​​ 💞​", callback_data="fallen_"),
@@ -90,18 +90,18 @@ buttons = [
         InlineKeyboardButton(
             text="🤔 sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ 🤔", callback_data="source_"),
         InlineKeyboardButton(
-            text="😘 sᴜᴘᴘᴏʀᴛ 😘", url="https://t.me/DevilsHeavenMF"
+            text="😘 sᴜᴘᴘᴏʀᴛ 😘", url="https://t.me/terayaarhoomai"
         ),
     ],
 ]
 
-FallenRobot_IMG = "https://telegra.ph/file/93b08120e36d096cd21ca.jpg"
+FallenRobot_IMG = "https://telegra.ph/file/b921645cc124c9d7acf7c.jpg"
 
 HELP_STRINGS = """
-*ᴀɴᴏɴʏᴍᴏᴜs​ ʀᴏʙᴏᴛ ᴇxᴄʟᴜsɪᴠᴇ ꜰᴇᴀᴛᴜʀᴇs\n ᴄʜᴇᴄᴋᴏᴜᴛ ᴀʟʟ ᴛʜᴇ ᴄᴏᴍᴍᴀɴᴅs\n» ᴀʟʟ ᴏꜰ ᴍʏ ᴄᴏᴍᴍᴀɴᴅs ᴄᴀɴ ʙᴇ ᴜsᴇᴅ ᴡɪᴛʜ / ᴏʀ !\n» ɪꜰ ʏᴏᴜ ɢᴏᴛ ᴀɴʏ ɪssᴜᴇ ᴏʀ ʙᴜɢ ɪɴ ᴀɴʏ ᴄᴏᴍᴍᴀɴᴅ ᴘʟᴇᴀsᴇ ʀᴇᴘᴏʀᴛ ɪᴛ ᴛᴏ @DevilsHeavenMF*"""
+*ʟᴜᴄᴋʏ ʀᴏʙᴏᴛ ᴇxᴄʟᴜsɪᴠᴇ ꜰᴇᴀᴛᴜʀᴇs\n ᴄʜᴇᴄᴋᴏᴜᴛ ᴀʟʟ ᴛʜᴇ ᴄᴏᴍᴍᴀɴᴅs\n» ᴀʟʟ ᴏꜰ ᴍʏ ᴄᴏᴍᴍᴀɴᴅs ᴄᴀɴ ʙᴇ ᴜsᴇᴅ ᴡɪᴛʜ / ᴏʀ !\n» ɪꜰ ʏᴏᴜ ɢᴏᴛ ᴀɴʏ ɪssᴜᴇ ᴏʀ ʙᴜɢ ɪɴ ᴀɴʏ ᴄᴏᴍᴍᴀɴᴅ ᴘʟᴇᴀsᴇ ʀᴇᴘᴏʀᴛ ɪᴛ ᴛᴏ @cute_boy701*"""
 
 
-DONATE_STRING = """[𝝙𝗡𝗢𝗡𝗬𝗠𝗢𝗨𝗦 🖤 𝗕𝗢𝗬](t.me/anonymous_was_bot)"""
+DONATE_STRING = """[𝗟𝗨𝗖𝗞𝗬 🖤 𝗕𝗢𝗬](t.me/cute_boy701)"""
 
 IMPORTED = {}
 MIGRATEABLE = []
@@ -346,8 +346,8 @@ def Fallen_about_callback(update: Update, context: CallbackContext):
     query = update.callback_query
     if query.data == "fallen_":
         query.message.edit_text(
-            text="""ɪ'ᴍ *ᴀɴᴏɴʏᴍᴏᴜs​ ʀᴏʙᴏᴛ*\nᴛʜᴇ ᴍᴏsᴛ ᴘᴏᴡᴇʀꜰᴜʟ ɢʀᴏᴜᴘ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ʙᴏᴛ ᴏꜰ ᴛᴇʟᴇɢʀᴀᴍ.\n❍ I can restrict users.\n❍ I can greet users with customizable welcome messages and even set a group's rules.\n❍ I have an advanced anti-flood system.\n❍ I can warn users until they reach max warns, with each predefined actions such as ban, mute, kick, etc.\n❍ I have a note keeping system, blacklists, and even predetermined replies on certain keywords.\n❍ I check for admin's permissions before executing any command and more stuffs.\n_Fallen's licensed under the GNU General Public License v3.0_
-                 If you have any question about Me, let us know at [sᴜᴘᴘᴏʀᴛ​](t.me/DevilsHeavenMF)""",
+            text="""ɪ'ᴍ *ʟᴜᴄᴋʏ​ ʀᴏʙᴏᴛ*\nᴛʜᴇ ᴍᴏsᴛ ᴘᴏᴡᴇʀꜰᴜʟ ɢʀᴏᴜᴘ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ʙᴏᴛ ᴏꜰ ᴛᴇʟᴇɢʀᴀᴍ.\n❍ I can restrict users.\n❍ I can greet users with customizable welcome messages and even set a group's rules.\n❍ I have an advanced anti-flood system.\n❍ I can warn users until they reach max warns, with each predefined actions such as ban, mute, kick, etc.\n❍ I have a note keeping system, blacklists, and even predetermined replies on certain keywords.\n❍ I check for admin's permissions before executing any command and more stuffs.\n_ʟᴜᴄᴋʏ's licensed under the GNU General Public License v3.0_
+                 If you have any question about Me, let us know at [sᴜᴘᴘᴏʀᴛ​](t.me/terayaarhoomai)""",
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
             reply_markup=InlineKeyboardMarkup(
@@ -373,8 +373,8 @@ def Source_about_callback(update: Update, context: CallbackContext):
     query = update.callback_query
     if query.data == "source_":
         query.message.edit_text(
-            text="""Hey...😘\nI'm *Fallen Robot*
-                 \nHere is my [Source Code](https://t.me/DevilsHeavenMF).""",
+            text="""Hey...😘\nI'm *Lucky Robot*
+                 \nHere is my [Source Code](https://t.me/terayaarhoomai).""",
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=False,
             reply_markup=InlineKeyboardMarkup(
