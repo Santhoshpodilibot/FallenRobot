@@ -19,7 +19,7 @@
 ━━━━━━━━━━━━━━━━━━━━━━
 ## ㅤㅤㅤᴅᴇᴘʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ​ 🚀
 ㅤㅤㅤᴛʜᴇ ᴇᴀsɪᴇsᴛ ᴡᴀʏ ᴛᴏ ᴅᴇᴘʟᴏʏ ʟᴜᴄᴋʏ ʀᴏʙᴏᴛ​
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/Santhoshpodilibot/FallenRobot.git"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-skyblue?style=for-the-badge&logo=heroku" width="120" height="38.45"/></a></p>
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/Santhoshpodilibot/FallenRobot.git"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-skyblue?style=for-the-badge&logo=heroku" width="140" height="38.45"/></a></p>
  ━━━━━━━━━━━━━━━━━━━━━━
 
 ### ㅤㅤㅤㅤCREDITS 😘
