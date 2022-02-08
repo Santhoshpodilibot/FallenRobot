@@ -1,16 +1,7 @@
-<p align="center">
-    <a href="https://github.com/AnonymousBoy1025/FallenRobot/stargazers"><img src="https://img.shields.io/github/stars/AnonymousBoy1025/FallenRobot?label=Stars&style=flat-square&logo=github&color=F10070" alt="Stars" /></a>
-</p>
-<p align="center">
-    <a href="https://github.com/Santhoshpodilibot/FallenRobot.git"> <img src="https://img.shields.io/github/repo-size/AnonymousBoy1025/FallenRobot?color=orange&logo=github&logoColor=green&style=for-the-badge" /></a>
-    <a href="https://github.com/Santhoshpodilibot/FallenRobot.git/commits/prince"> <img src="https://img.shields.io/github/last-commit/AnonymousBoy1025/FallenRobot?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
-    <a href="https://github.com/Santhoshpodilibot/FallenRobot.git"> <img src="https://img.shields.io/github/issues/AnonymousBoy1025/FallenRobot?color=blueviolet&logo=github&logoColor=green&style=for-the-badge" /></a>
-    <a href="https://github.com/Santhoshpodilibot/FallenRobot.git/network/members"> <img src="https://img.shields.io/github/forks/AnonymousBoy1025/FallenRobot?color=red&logo=github&logoColor=green&style=for-the-badge" /></a>  
-    <a href="https://pypi.org/project/Telethon/"> <img src="https://img.shields.io/pypi/v/telethon?color=yellow&label=telethon&logo=python&logoColor=green&style=for-the-badge" /></a>
-</p>
+
 ━━━━━━━━━━━━━━━━━━━━━━
 <p align="center">
-  <img src="https://telegra.ph/file/72e135da30a1a349f2844.jpg">
+  <img src="https://te.legra.ph/file/38deca938d96e9d207b27.jpg">
 </p>
 
 ## ㅤㅤㅤ 🖤ʟᴜᴄᴋʏ ʀᴏʙᴏᴛ🖤
